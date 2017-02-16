@@ -1,0 +1,14 @@
+D:\Users\Alex\OneDrive for Business\3rd Year\2nd Semester\Info 350\Final Project\IncomeEstimator\IncomeEstimator\bin\Debug\IncomeEstimator.exe.config
+D:\Users\Alex\OneDrive for Business\3rd Year\2nd Semester\Info 350\Final Project\IncomeEstimator\IncomeEstimator\bin\Debug\IncomeEstimator.exe
+D:\Users\Alex\OneDrive for Business\3rd Year\2nd Semester\Info 350\Final Project\IncomeEstimator\IncomeEstimator\bin\Debug\IncomeEstimator.pdb
+D:\Users\Alex\OneDrive for Business\3rd Year\2nd Semester\Info 350\Final Project\IncomeEstimator\IncomeEstimator\obj\Debug\IncomeEstimator.csprojResolveAssemblyReference.cache
+D:\Users\Alex\OneDrive for Business\3rd Year\2nd Semester\Info 350\Final Project\IncomeEstimator\IncomeEstimator\obj\Debug\MainWindow.g.cs
+D:\Users\Alex\OneDrive for Business\3rd Year\2nd Semester\Info 350\Final Project\IncomeEstimator\IncomeEstimator\obj\Debug\App.g.cs
+D:\Users\Alex\OneDrive for Business\3rd Year\2nd Semester\Info 350\Final Project\IncomeEstimator\IncomeEstimator\obj\Debug\IncomeEstimator_MarkupCompile.cache
+D:\Users\Alex\OneDrive for Business\3rd Year\2nd Semester\Info 350\Final Project\IncomeEstimator\IncomeEstimator\obj\Debug\IncomeEstimator_MarkupCompile.lref
+D:\Users\Alex\OneDrive for Business\3rd Year\2nd Semester\Info 350\Final Project\IncomeEstimator\IncomeEstimator\obj\Debug\MainWindow.baml
+D:\Users\Alex\OneDrive for Business\3rd Year\2nd Semester\Info 350\Final Project\IncomeEstimator\IncomeEstimator\obj\Debug\IncomeEstimator.g.resources
+D:\Users\Alex\OneDrive for Business\3rd Year\2nd Semester\Info 350\Final Project\IncomeEstimator\IncomeEstimator\obj\Debug\IncomeEstimator.Properties.Resources.resources
+D:\Users\Alex\OneDrive for Business\3rd Year\2nd Semester\Info 350\Final Project\IncomeEstimator\IncomeEstimator\obj\Debug\IncomeEstimator.csproj.GenerateResource.Cache
+D:\Users\Alex\OneDrive for Business\3rd Year\2nd Semester\Info 350\Final Project\IncomeEstimator\IncomeEstimator\obj\Debug\IncomeEstimator.exe
+D:\Users\Alex\OneDrive for Business\3rd Year\2nd Semester\Info 350\Final Project\IncomeEstimator\IncomeEstimator\obj\Debug\IncomeEstimator.pdb
